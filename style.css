@@ -1,3 +1,19 @@
+.heading{
+    font-size: 23px;
+    width: 100%;
+    color: blue;
+    margin: 0px;
+}
+
+#note {
+    font-size: 15px;
+    color: rgb(253, 236, 205);
+}
+
+body {
+    background-size: cover;
+}
+
 .image_1 {
     float: right;
 }
