@@ -1,9 +1,9 @@
 function AI_MUSIC_1() {
-    window.location.href = "";
+    window.location.href = "https://aadya-ai.github.io/AI-MUSIC-WEBAPP-PART-1/";
 }
 
 function AI_MUSIC_2() {
-    window.location.href = "";
+    window.location.href = "https://aadya-ai.github.io/AI-MUSIC-WEBAPP-PART-2/";
 }
 
 function Community() {
